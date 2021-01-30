@@ -1,0 +1,16 @@
+.index {
+  height: 100vh;
+}
+.container {
+  box-sizing: border-box;
+  height: 100vh;
+}
+.container .header {
+  text-align: left;
+  height: 80px !important;
+  line-height: 80px;
+  font-size: 24px;
+  text-indent: 2em;
+  color: #fff;
+  background-color: #518ecb;
+}
